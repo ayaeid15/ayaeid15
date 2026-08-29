@@ -8,9 +8,6 @@ Senior Computer & Control Engineering Student
 <b>Software Engineer | AWS Cloud Security | Network Infrastructure</b>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/ayaeid15/ayaeid15/main/assets/WhatsApp%20Image%202026-08-29%20at%202.45.48%20PM.jpeg" width="180" alt="Aya Eid">
-</p>
 
 <p align="center">
 <a href="https://github.com/ayaeid15">

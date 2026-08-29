@@ -60,6 +60,38 @@ My projects range from **scalable web applications** to **enterprise network des
 
 ---
 
+## 🛠️ Skills
+
+### ☁️ Cloud & Infrastructure
+
+- **AWS:** IAM, VPC, EC2
+- **Cloud Security & Architecture**
+- **Network Infrastructure & Cisco IOS**
+- **Routing & Switching (CCNA)**
+
+### 💻 Software & Web Development
+
+- **Programming Languages:** C#, PHP, JavaScript, Python
+- **Front-End:** HTML5, CSS3, Bootstrap
+- **Back-End & Databases:** MySQL
+- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures, Algorithms
+
+### 🔧 Tools & Frameworks
+
+- **Development:** Visual Studio, VS Code
+- **Version Control:** Git & GitHub
+- **Networking:** Cisco Packet Tracer
+- **Engineering:** MATLAB & Control Systems Simulation
+
+### 🧠 Core Competencies
+
+- Problem-Solving & Analytical Thinking
+- System Troubleshooting
+- Technical Communication
+- Continuous Learning
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Software Engineering & Development

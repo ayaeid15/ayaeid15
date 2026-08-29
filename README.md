@@ -33,6 +33,33 @@ My projects range from **scalable web applications** to **enterprise network des
 
 ---
 
+## 🎓 Education
+
+### Bachelor of Science in Computer & Control Engineering
+
+**Faculty of Engineering**  
+**Expected Graduation: 2027**
+
+**Focus:** Software Engineering, Computer Networks, and Control Systems.
+
+---
+
+## 📜 Certifications & Professional Training
+
+- **Digital Egypt Pioneers Initiative (DEPI)**  
+  AWS Cloud Security Track
+
+- **National Telecommunication Institute (NTI)**  
+  Full-Stack Web Development Track
+
+- **Telecom Egypt (WE)**  
+  Network Infrastructure & CCNA Training
+
+- **Olspare**  
+  Front-End Web Development Track
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Software Engineering & Development

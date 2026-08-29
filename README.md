@@ -1,16 +1,28 @@
 <h1 align="center">Hi 👋, I'm Aya Eid</h1>
 
-<h3 align="center">Senior Computer & Control Engineering Student</h3>
-
 <p align="center">
-  <b>Software Engineer | AWS Cloud Security | Network Infrastructure</b>
-</p>
+
+```text
+                 .-""""-.
+                /  .--.  \
+               /  /    \  \
+               | |  👩‍💻 | |
+               | |      | |
+               |  \____/  |
+                \   __   /
+                 '.___.'
+                    ||
+              .-----||-----.
+             /      ||      \
+            /       ||       \
+           /________||________\
+                  /    \
+                 /      \
+            💻  CODE  ☁️  AWS
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayaeid15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
+
 
 ---
 

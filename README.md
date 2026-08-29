@@ -6,9 +6,7 @@
   <b>Software Engineer | AWS Cloud Security | Network Infrastructure</b>
 </p>
 
-<p align="center">
-  <img src="./assets/WhatsApp%20Image%202026-08-29%20at%202.45.48%20PM.jpeg" width="200" alt="Aya Eid">
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayaeid15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">

@@ -76,7 +76,7 @@ My projects range from **scalable web applications** to **enterprise network des
 - Gained hands-on exposure to enterprise routing, switching, and network troubleshooting based on CCNA architecture.
 - Analyzed physical and logical telecom infrastructure, routing protocols, and IP addressing schemes.
 
-### 🎨 Front-End Web Development Trainee | Orange Digital Center (ODC)
+### 🎨 Front-End Web Development Trainee | Olspare
 
 - Developed clean, responsive user interfaces and interactive web components using JavaScript, HTML, CSS, and Bootstrap.
 - Collaborated on code reviews and user experience optimization.

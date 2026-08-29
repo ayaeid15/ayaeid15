@@ -322,44 +322,6 @@ Exploring AWS-based infrastructure and security solutions with a focus on buildi
 
 ---
 
-## 🏆 Training & Practical Experience
-
-<table>
-<tr>
-<th>Organization</th>
-<th>Focus</th>
-</tr>
-
-<tr>
-<td><b>WE Telecom</b></td>
-<td>Telecommunications & Networking</td>
-</tr>
-
-<tr>
-<td><b>NTI</b></td>
-<td>Technical Training & Networking</td>
-</tr>
-
-<tr>
-<td><b>DEPI</b></td>
-<td>Software & Cloud Technologies</td>
-</tr>
-</table>
-
----
-
-## 💡 What I Bring
-
-- Strong engineering mindset
-- Problem-solving approach
-- Passion for software development
-- Growing expertise in AWS Cloud Security
-- Practical networking experience
-- Ability to learn new technologies quickly
-- Interest in secure and scalable systems
-- Continuous learning and improvement
-
----
 
 ## 📈 GitHub
 

@@ -37,7 +37,16 @@ My projects range from **scalable web applications** to **enterprise network des
 **Faculty of Engineering**  
 **Expected Graduation: 2027**
 
-**Focus:** Software Engineering, Computer Networks, and Control Systems.
+**Academic Focus & Coursework:**
+
+- 💻 **Programming & Software Engineering:** C#, PHP, JavaScript, Python, Object-Oriented Programming (OOP)
+- 🧠 **Computer Science Fundamentals:** Data Structures, Algorithms, Problem-Solving
+- 🌐 **Computer Networks:** Networking Fundamentals, TCP/IP, Routing & Switching, Network Infrastructure
+- ⚙️ **Control Systems:** Control Systems, System Modeling, MATLAB & Simulation
+- 🔌 **Embedded Systems & IoT:** Microcontrollers, Embedded Systems, IoT Concepts
+- 🗄️ **Databases:** Database Fundamentals, SQL, MySQL
+- 🔧 **Engineering Fundamentals:** Digital Logic, Electronics, Signals & Systems
+- 📡 **Communication Systems:** Communication & Telecommunication Fundamentals
 
 ---
 

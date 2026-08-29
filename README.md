@@ -1,30 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aya Eid</h1>
 
+<h3 align="center">Senior Computer & Control Engineering Student</h3>
+
 <p align="center">
-
-```text
-                 .-""""-.
-                /  .--.  \
-               /  /    \  \
-               | |  👩‍💻 | |
-               | |      | |
-               |  \____/  |
-                \   __   /
-                 '.___.'
-                    ||
-              .-----||-----.
-             /      ||      \
-            /       ||       \
-           /________||________\
-                  /    \
-                 /      \
-            💻  CODE  ☁️  AWS
-
-
-
-
-
----
+  <b>Software Engineer | AWS Cloud Security | Network Infrastructure</b>
+</p>
 
 ## 👩‍💻 About Me
 

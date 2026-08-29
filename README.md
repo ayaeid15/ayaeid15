@@ -16,21 +16,12 @@
 
 ## 👩‍💻 About Me
 
-I’m **Aya Eid**, a senior **Computer and Control Engineering student** driven by a deep passion for engineering, problem-solving, and a constant curiosity to learn how things work behind the scenes.
+I’m Aya Eid, a senior Computer and Control Engineering student driven by a deep passion for engineering, problem-solving, and a constant curiosity to understand how things work behind the scenes. This mindset led me to specialize in Software Engineering, with a particular focus on AWS Cloud Security and Network Infrastructure.
 
-This mindset led me to specialize in **Software Engineering**, focusing on **AWS Cloud Security** and **Network Infrastructure**.
+Through practical training with WE Telecom, NTI, and DEPI, I’ve developed a strong technical foundation across software development, cloud computing, and networking. I’ve worked with technologies including PHP, JavaScript, C#, AWS, and Cisco IOS, while gaining hands-on experience in developing applications, designing network infrastructures, and exploring IoT solutions.
 
-- 🎓 Senior Computer & Control Engineering Student
-- 💻 Software Engineering Enthusiast
-- ☁️ AWS Cloud & Security Enthusiast
-- 🌐 Interested in Network Infrastructure
-- 🔐 Passionate about Cloud & Network Security
-- 🧩 Strong interest in problem-solving and engineering
-- 🚀 Always learning and exploring new technologies
-- 💡 Interested in building secure, scalable, and reliable systems
-
+My projects have given me practical exposure to building scalable web applications, designing enterprise network environments, and developing IoT-based solutions. Currently, I’m deepening my expertise in AWS Cloud Security and secure infrastructure, while seeking opportunities in Software Engineering or Cloud Security where I can contribute to building secure, scalable, and resilient systems.
 ---
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Web Development

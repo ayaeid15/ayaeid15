@@ -120,6 +120,57 @@ My projects range from **scalable web applications** to **enterprise network des
 - Continuous Learning
 
 ---
+## 💼 Services
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+- Responsive Website Development
+- Front-End Development
+- Interactive Web Interfaces
+- HTML, CSS & JavaScript
+- Bootstrap Development
+
+</td>
+<td width="50%">
+
+### ☁️ AWS Cloud
+- AWS Cloud Setup & Configuration
+- IAM Configuration
+- VPC Configuration
+- Cloud Infrastructure
+- Cloud Security Fundamentals
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Network Solutions
+- Network Infrastructure Design
+- Cisco IOS Configuration
+- Routing & Switching
+- Network Troubleshooting
+- Cisco Packet Tracer
+
+</td>
+<td width="50%">
+
+### 🔐 Security & Infrastructure
+- Cloud Security Fundamentals
+- Network Security
+- Secure Infrastructure Concepts
+- System Troubleshooting
+- Infrastructure Analysis
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 

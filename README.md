@@ -1,49 +1,200 @@
-# Hi, I'm Aya Eid 👋
+<h1 align="center">Hi 👋, I'm Aya Eid</h1>
 
-### 💻 Software Engineer | 🌐 Front-End Developer | ☁️ AWS Cloud & Security Enthusiast
+<h3 align="center">Senior Computer & Control Engineering Student</h3>
+
+<p align="center">
+  <b>Software Engineer | AWS Cloud Security | Network Infrastructure</b>
+</p>
+
+<p align="center">
+  <img src="./assets/WhatsApp%20Image%202026-08-29%20at%202.45.48%20PM.jpeg" width="200" alt="Aya Eid">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayaeid15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m Aya Eid, a senior Computer and Control Engineering student driven by a deep passion for engineering, problem-solving, and a constant curiosity to learn how things work behind the scenes.
+I’m **Aya Eid**, a senior **Computer and Control Engineering student** driven by a deep passion for engineering, problem-solving, and a constant curiosity to learn how things work behind the scenes.
 
-This mindset led me to specialize in Software Engineering, focusing on AWS Cloud Security and Network Infrastructure.
+This mindset led me to specialize in **Software Engineering**, focusing on **AWS Cloud Security** and **Network Infrastructure**.
 
-💻 Passionate about Software Engineering and Front-End Development.
-
-☁️ Building my expertise in AWS Cloud and Cloud Security.
-
-🌐 Interested in Network Infrastructure and secure, scalable systems.
-
-🧩 Driven by problem-solving, continuous learning, and building practical solutions.
-
-🚀 Always exploring new technologies and looking for opportunities to grow and create meaningful impact.
+- 🎓 Senior Computer & Control Engineering Student
+- 💻 Software Engineering Enthusiast
+- ☁️ AWS Cloud & Security Enthusiast
+- 🌐 Interested in Network Infrastructure
+- 🔐 Passionate about Cloud & Network Security
+- 🧩 Strong interest in problem-solving and engineering
+- 🚀 Always learning and exploring new technologies
+- 💡 Interested in building secure, scalable, and reliable systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Front-End
+### 💻 Programming & Web Development
 
-HTML • CSS • JavaScript • Bootstrap
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML CSS JavaScript Bootstrap">
+</p>
 
-### Cloud & Security
+### ☁️ Cloud & Infrastructure
 
-AWS • Cloud Security
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS">
+</p>
 
-### Tools
+### 🔧 Tools & Technologies
 
-Git • GitHub • VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git GitHub VS Code Linux">
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+| Area | Focus |
+|---|---|
+| 💻 Software Engineering | Problem Solving & Software Development |
+| 🌐 Front-End Development | Responsive & User-Friendly Interfaces |
+| ☁️ AWS Cloud | Cloud Infrastructure & AWS Services |
+| 🔐 Cloud Security | Secure Cloud Environments |
+| 🌍 Network Infrastructure | Networking & Infrastructure |
+| 🛡️ Network Security | Secure & Reliable Networks |
+
+---
+
+## ☁️ AWS & Cloud Security
+
+Currently expanding my knowledge and practical experience in:
+
+- AWS Cloud Infrastructure
+- AWS Core Services
+- Identity & Access Management (IAM)
+- Cloud Security Fundamentals
+- Secure Cloud Architecture
+- Networking in AWS
+- Infrastructure Security
+- AWS Security Best Practices
+
+---
+
+## 🌐 Network Infrastructure
+
+I'm interested in understanding and building reliable network environments, with a focus on:
+
+- Computer Networks
+- TCP/IP
+- Network Infrastructure
+- Routing & Switching
+- Network Security
+- Network Troubleshooting
+- Secure Network Design
 
 ---
 
 ## 🚀 Featured Projects
 
-Coming soon...
+### 🌐 Front-End Web Development
+
+Developing responsive and interactive websites using:
+
+`HTML` `CSS` `JavaScript` `Bootstrap`
+
+> 🔗 Projects will be added soon.
+
+### ☁️ AWS Cloud Projects
+
+Hands-on projects focused on:
+
+`AWS` `Cloud Infrastructure` `Cloud Security` `Networking`
+
+> 🔗 Projects will be added soon.
+
+### 🔐 Security Projects
+
+Exploring practical security concepts related to:
+
+`Cloud Security` `Network Security` `IAM` `Secure Infrastructure`
+
+> 🔗 Projects will be added soon.
+
+---
+
+## 📚 Currently Learning
+
+**Software Engineering**  
+↓  
+**Front-End Development**  
+↓  
+**JavaScript**  
+↓  
+**AWS Cloud**  
+↓  
+**Cloud Security**  
+↓  
+**Network Infrastructure**  
+↓  
+**Secure & Scalable Systems**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayaeid15&show_icons=true&theme=tokyonight&hide_border=true" alt="Aya Eid GitHub Stats">
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaeid15&theme=tokyonight&hide_border=true" alt="Aya Eid GitHub Streak">
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaeid15&layout=compact&theme=tokyonight&hide_border=true" alt="Aya Eid Top Languages">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayaeid15/ayaeid15/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-LinkedIn • GitHub • Email
+<p align="center">
+
+<a href="https://github.com/ayaeid15">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/ayaeid0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Always learning. Always building. Always improving.</b>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories!
+</p>
